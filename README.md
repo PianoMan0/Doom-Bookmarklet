@@ -15,7 +15,7 @@ Don't have a browser that can run bookmarklets?
 Check out https://hacklet.hackclub.com/preview.html?id=local-msjf32aq-x743xh2fovn
 
 ## What is a bookmarklet?
-A is a small JavaScript program stored as a browser bookmark. When clicked, it runs code to modify a webpage, extract data, or perform quick actions. 
+A bookmarklet is a small JavaScript program stored as a browser bookmark. When clicked, it runs code to modify a webpage, extract data, or perform quick actions. 
 
 ## Controls (default for DOOM)
 - Arrow keys / WASD : move
