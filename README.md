@@ -1,4 +1,4 @@
-<img src="https://cdn.hackclub.com/019fe26c-6529-7344-8cbb-adbb981960b9/doom-bookmarklet.gif" width="300" height="200" alt="Doom Bookmarklet Gif">
+![Doom Bookmarklet Gif](https://user-cdn.hackclub-assets.com/019fe26c-6529-7344-8cbb-adbb981960b9/doom-bookmarklet.gif)
 
 # Doom Bookmarklet
 Doom running in a bookmarklet!
